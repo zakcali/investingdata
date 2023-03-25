@@ -171,7 +171,7 @@ def set_todays_timestamps():
 def starting_point():
     instruments = download_instruments_dict()
     download_with_api(instruments)  # for intraday trading
-    download_with_tvc(instruments)  # for permenant database
+    download_with_tvc(instruments)  # for permanent, long term database, update daily
     return
 
 
