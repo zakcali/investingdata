@@ -1,7 +1,7 @@
 # investingdata
-download stock data with api for long term and intraday trading
+downloads stock data with api and saves csv files for long term and intraday trading
 
-you need to install and have running a tor proxy in your system:
+you need to install and have running a tor proxy in your system, look at decleration:
 proxies = {
     "http": "socks5://localhost:9050",
     "https": "socks5://localhost:9050"
