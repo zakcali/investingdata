@@ -1,0 +1,40 @@
+﻿name,full_name,id,symbol,24h
+Adel,Adel Kalemcilik Ticaret ve Sanayi AS,19255,ADEL,N
+Adese,Adese Alisveris Merkezleri Ticaret AS,19256,ADESE,N
+Alkim Kagit,Alkim Kagit Sanayi ve Ticaret AS,19279,ALKA,N
+Aselsan,Aselsan Elektronik Sanayi ve Ticaret AS,19294,ASELS,N
+Cemtas,Cemtas Celik Makina Sanayi ve Ticaret AS,19342,CEMTS,N
+Deva Holding,Deva Holding AS,19359,DEVA,N
+Eczacibasi Ilac,EIS Eczacibasi Ilac Sinai ve Finansal Yatirimlar Sanayi ve Ticaret AS,19375,ECILC,N
+ERBOSAN,Erbosan Erciyas Boru Sanayi Ve Ticaret AS,19393,ERBOS,N
+Garanti Bank,Turkiye Garanti Bankasi,19412,GARAN,N
+Goodyear Lastikleri,Goodyear Lastikleri TAS,19425,GOODY,N
+Turkiye Is Bankasi C,Turkiye Is Bankasi AS Class C,19454,ISCTR,N
+Karsan Otomotiv,Karsan Otomotiv Sanayi ve Ticaret AS,19467,KARSN,N
+Migros,Migros Ticaret AS,19509,MGROS,N
+Otokar,Otokar Otomotiv ve Savunma Sanayi AS,19528,OTKAR,N
+Petkim,Petkim Petrokimya Holding AS,19535,PETKM,N
+Sabanci Holding,Haci Omer Sabanci Holding AS,19553,SAHOL,N
+Tat Gida,Tat Gida Sanayi AS,941121,TATGD,N
+THY,Turkish Airlines,19581,THYAO,N
+Tofas,Tofas Turk Otomobil Fabrikasi AS,19585,TOASO,N
+Tukas Gida,Tukas Gida Sanayi ve Ticaret AS,19597,TUKAS,N
+Tupras Turkiye,Turkiye Petrol Rafinerileri AS,19598,TUPRS,N
+Yunsa,Yunsa Yunlu Sanayi ve Ticaret AS,19625,YUNSA,N
+Jantsa,Jantsa Jant Sanayi ve Ticaret AS,40449,JANTS,N
+Tumosan,Tumosan Motor ve Traktor Sanayi AS,40460,TMSN,N
+Bantas Bandirma,Bantas Bandirma Ambalaj Sanayi ve Ticaret AS,953595,BNTAS,N
+Yayla Gida,Yayla Agro Gida Sanayi ve Ticaret,1190452,YYLGD​,N
+Borsa Istanbul 30,BIST 30,19158,XU30,N
+Borsa Istanbul 100,BIST 100,19155,XU100,N
+Borsa Istanbul Bankalar,BIST Banks,19180,XBANK,N
+QNB Finansbank USD Fon,Istanbul USD,37644,USDTRf,N 
+QNB Finansbank Gold Fon,Istanbul Gold,37601,GLDTRf,N
+QNB Finansbank Gumus Fon,Istanbul Gumus,39017,GMSTRf,N
+Dolar TL,USD TRY,18,USDTRY,Y
+Bitcoin Bitfinex,Bitcoin,945629,BTCUSD,Y
+Ethereum Binance,Ethereum,1058142,ETHUSD,Y
+Avalanche Binance,Avax,1168373,AVAX,Y
+Binance BNB,Binance Coin,1054919,BNBUSD,Y
+Gold Futures,Gold,8830,GCJ3,Y
+Silver Future,Silver,8836,SIK3,Y
